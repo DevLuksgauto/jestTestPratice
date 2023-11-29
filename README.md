@@ -1,0 +1,2 @@
+# jestTestPratice
+Praticing jest test.
